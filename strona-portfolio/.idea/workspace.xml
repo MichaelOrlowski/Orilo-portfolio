@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eed4eb11-48d1-45ef-b59b-27fad0ec7352" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Projects/WdpWEB-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/WdpWEB-master/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/WdpWEB-master/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/WdpWEB-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/WdpWEB-master/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/strona-artystyczna/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/strona-artystyczna/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="strona-portfolio" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Projects/mogo_wawa-master_wersja2" />
+  </component>
+  <component name="ProjectId" id="1k3LtiqcGzhPyeXCW94Ppj0Uvfw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kzns" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programy\XAMPP\htdocs\strona-portfolio" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed4eb11-48d1-45ef-b59b-27fad0ec7352" name="Default Changelist" comment="" />
+      <created>1604924544831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604924544831</updated>
+      <workItem from="1604924546455" duration="1710000" />
+      <workItem from="1604926330507" duration="1077000" />
+      <workItem from="1605003062994" duration="1797000" />
+      <workItem from="1605004890798" duration="2039000" />
+      <workItem from="1605007227482" duration="1792000" />
+      <workItem from="1605009040163" duration="1790000" />
+      <workItem from="1605010853500" duration="1788000" />
+      <workItem from="1605012661778" duration="1793000" />
+      <workItem from="1605014478077" duration="1493000" />
+      <workItem from="1605016564361" duration="1900000" />
+      <workItem from="1605022800589" duration="1834000" />
+      <workItem from="1605024798381" duration="1795000" />
+      <workItem from="1605026618508" duration="660000" />
+      <workItem from="1605177612422" duration="1770000" />
+      <workItem from="1605179423114" duration="1787000" />
+      <workItem from="1605181242707" duration="182000" />
+      <workItem from="1605203833677" duration="1730000" />
+      <workItem from="1605205591342" duration="727000" />
+      <workItem from="1605212279371" duration="1890000" />
+      <workItem from="1605214230433" duration="1223000" />
+      <workItem from="1605218931414" duration="1813000" />
+      <workItem from="1605220799393" duration="1070000" />
+      <workItem from="1605222617876" duration="1000000" />
+      <workItem from="1605304665304" duration="1776000" />
+      <workItem from="1605306462777" duration="1787000" />
+      <workItem from="1605308273088" duration="1698000" />
+      <workItem from="1605310085043" duration="1383000" />
+      <workItem from="1605311979704" duration="1787000" />
+      <workItem from="1605313789322" duration="2168000" />
+      <workItem from="1605317683017" duration="672000" />
+      <workItem from="1605318379339" duration="83000" />
+      <workItem from="1605321355750" duration="1863000" />
+      <workItem from="1605323590258" duration="477000" />
+      <workItem from="1605340249701" duration="874000" />
+      <workItem from="1605390725955" duration="1896000" />
+      <workItem from="1605392656168" duration="392000" />
+      <workItem from="1605469057659" duration="1776000" />
+      <workItem from="1605470863850" duration="1791000" />
+      <workItem from="1605472700458" duration="1918000" />
+      <workItem from="1605475045712" duration="1720000" />
+      <workItem from="1605476855761" duration="1700000" />
+      <workItem from="1605478710347" duration="1787000" />
+      <workItem from="1605480520765" duration="1782000" />
+      <workItem from="1605518647249" duration="1426000" />
+      <workItem from="1605520935786" duration="1599000" />
+      <workItem from="1605698703811" duration="1607000" />
+      <workItem from="1605736470613" duration="683000" />
+      <workItem from="1605814836627" duration="17000" />
+      <workItem from="1605957551458" duration="1746000" />
+      <workItem from="1605959626460" duration="1363000" />
+      <workItem from="1605989695586" duration="37000" />
+      <workItem from="1606052694366" duration="1189000" />
+      <workItem from="1606830390845" duration="658000" />
+      <workItem from="1606836496981" duration="596000" />
+      <workItem from="1607243803304" duration="32000" />
+      <workItem from="1607811529689" duration="262000" />
+      <workItem from="1608204166122" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="19" key="#CLI_Interpreters" timestamp="1605318454383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#CLI_Interpreters/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1605318454383" />
+    <state x="390" y="0" key="#PHP" timestamp="1605318354121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" key="#PHP/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1605318354121" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605305338677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1605305338677" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608204214506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1608204214506" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1605314688954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1605314688954" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1605469875463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1605469875463" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1608204177466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1608204177466" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605307566771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1605307566771" />
+  </component>
+</project>
